@@ -1,7 +1,14 @@
 # 👋 Welcome — I'm Trevor Honer
 
-Founder of the **BareMetal Engine**, an open-source movement to take back gaming from bloated engines and corporate GPU tyranny.
+My name is Trevor Honer.
+I created Multicore and the BareMetal Engine because I refuse to watch gaming—its creativity, its community, and its history—be erased by greed, neglect, or corporate control.
 
-🔧 [View the Engine »](https://github.com/baremetal-engine/baremetal)
+Multicore exists to preserve the soul of multiplayer.
+BareMetal exists to restore game development to its roots: fast, efficient, and free from GPU tyranny.
 
-> Photorealism. Lowest GPU possible. Always.
+These projects are more than software. They're a resistance.
+
+If we don’t build this—no one will.
+
+I’m not here to compete with companies.
+I’m here to outlive them.
