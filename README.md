@@ -10,5 +10,3 @@ These projects are more than software. They're a resistance.
 
 If we don’t build this—no one will.
 
-I’m not here to compete with companies.
-I’m here to outlive them.
