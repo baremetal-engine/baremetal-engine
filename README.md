@@ -6,7 +6,7 @@ I created Multicore and the BareMetal Engine because I refuse to watch gaming—
 Multicore exists to preserve the soul of multiplayer.
 BareMetal exists to restore game development to its roots: fast, efficient, and free from GPU tyranny.
 
-These projects are more than software. They're a resistance.
+These projects are more than software. They're a renaissance.
 
-If we don’t build this—no one will.
+If we don’t build this — no one will.
 
